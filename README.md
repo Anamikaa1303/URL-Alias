@@ -1,6 +1,6 @@
 # 🔗 URL Alias
 
-A modern URL shortener built with **Next.js**, **Tailwind CSS**, and **MongoDB** — create and manage clean, shareable short links effortlessly.
+**URL-Alias** is a modern URL shortener built with **Next.js**. It allows users to generate short, custom URLs quickly and easily. The project features a responsive design, local font optimization, and a short URL generator connected to **MongoDB**.
 
 ![URL Alias Preview](https://raw.githubusercontent.com/Anamikaa1303/URL-Alias/main/public/URL.png) 
 
@@ -16,6 +16,17 @@ A modern URL shortener built with **Next.js**, **Tailwind CSS**, and **MongoDB**
 
 🌐 Deployed easily on Vercel 
 
+
+## Tech Stack
+
+- **Frontend:** Next.js, React  
+- **Backend / API:** Next.js API Routes  
+- **Database:** MongoDB  
+- **Styling:** Tailwind CSS  
+- **Fonts:** Geist (via `next/font`)  
+- **Deployment:** Vercel  
+
+---
 
 ## 🚀 Getting Started
 
